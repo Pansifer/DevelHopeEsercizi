@@ -1,6 +1,6 @@
 package it.aglianofrancesco.esercizio1;
 
-class Programmer {
+public class Programmer {
     public String name;
     public int age;
     public boolean wearsGlasses;
